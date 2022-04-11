@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bartel.florian@live.de
+	name = Florian Bartel
